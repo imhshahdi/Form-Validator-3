@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Rubik:wght@300;400&family=Work+Sans&display=swap');
 /*
 :root{
   --success-color: #2ecc71;
@@ -13,7 +12,7 @@
 
 body {
   background-color: #f9fafb;
-  font-family: 'Open Sans', 'sans-serif';
+  font-family: 'Work Sans', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -86,9 +85,9 @@ h1 {
 
 .form button {
   cursor: pointer;
-  background-color: #3498db;
-  border: 2px solid #3498db;
-  border-radius: 4px;
+  background-color: #006eff;
+  border: 2px solid #006eff;
+  border-radius: 2px;
   color: #fff;
   display: block;
   font-size: 16px;
